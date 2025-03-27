@@ -1,1 +1,3 @@
 # Restaurant-POS
+
+This project is a Restaurant Kiosk System designed to provide a seamless ordering experience. The application allows customers to browse menu categories, adjust item quantities using an intuitive counter, and add items to their order. Once the order is finalized, it is stored in a JSON file for processing. The system features a modern, user-friendly interface with warm colors for a welcoming experience. The order management section allows restaurant staff to track active and completed orders efficiently. This project is built using HTML, CSS, and JavaScript (Node.js for backend file handling) and is structured to be easily expandable for future enhancements. 
