@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Appetizers",
+        "items": [
+            {
+                "id": 1,
+                "name": "Chicken Wings",
+                "price": 8.99
+            },
+            {
+                "id": 2,
+                "name": "Mozzarella Sticks",
+                "price": 6.50
+            },
+            {
+                "id": 3,
+                "name": "Nachos",
+                "price": 7.25
+            }
+        ]
+    },
+    {
+        "name": "Main Courses",
+        "items": [
+            {
+                "id": 4,
+                "name": "Burger",
+                "price": 12.50
+            },
+            {
+                "id": 5,
+                "name": "Pizza",
+                "price": 14.99
+            },
+            {
+                "id": 6,
+                "name": "Pasta",
+                "price": 11.75
+            }
+        ]
+    },
+    {
+        "name": "Drinks",
+        "items": [
+            {
+                "id": 7,
+                "name": "Soda",
+                "price": 2.50
+            },
+            {
+                "id": 8,
+                "name": "Coffee",
+                "price": 3.25
+            },
+            {
+                "id": 9,
+                "name": "Milkshake",
+                "price": 5.00
+            }
+        ]
+    }
+]
